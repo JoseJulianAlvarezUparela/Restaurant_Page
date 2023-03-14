@@ -194,6 +194,7 @@ header .navegation a {
 @media screen and (max-width: 800px) {
 
     .heroSection{
+        padding-top: 30px;
         flex-direction: column-reverse;
         justify-content: space-around;
     }
@@ -221,6 +222,20 @@ header .navegation a {
     }
 
 }
+
+
+
+
+@media screen and (max-width: 800px) {
+
+    .right img{
+        width: 290px;
+        height: 260px;
+
+    }
+
+}
+
 
 
 /* galeria  */

@@ -34,27 +34,10 @@ section{
     border-style: solid;
 }
 
-
-/* animacion h3  */
-
-/* .menu-title {
-    animation: scale 2s ease-in-out infinite;
-
+h3{
+    font-size: 3rem;
     text-align: center;
-  }
-  
-  @keyframes scale {
-    0% {
-      transform: scale(1);
-    }
-    50% {
-      transform: scale(2);
-    }
-    100% {
-      transform: scale(1);
-    }
-  } */
-  
+}
 
 
 /* header  */
